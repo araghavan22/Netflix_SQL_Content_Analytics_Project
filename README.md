@@ -28,3 +28,12 @@ The data for this project is sourced from the Kaggle dataset: https://www.kaggle
 ## 🚀 Getting Started
 - PostgreSQL installed on your system.
 - A Netflix dataset (can be sourced from Kaggle or other public repositories).
+
+## 📈 Results & Insights
+Include any key takeaways from your analysis, such as trends or anomalies found in the dataset.
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+## 📜 License
+This project is licensed under the MIT License.
