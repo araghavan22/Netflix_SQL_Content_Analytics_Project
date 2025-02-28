@@ -1,4 +1,4 @@
-20 Business Problems with a dataset on Netflix content
+20 Business Problems for a dataset on Netflix content
 
 1. Count the number of Movies vs TV Shows
 2. Find the most common rating for movies and TV shows
