@@ -1,2 +1,3 @@
-# Netflix_SQL_Content_Analytics_Project
+# Netflix Movies and TV Shows Analysis using SQL
 Netflix Content Analytics (Years 2015 - 2021)
+
