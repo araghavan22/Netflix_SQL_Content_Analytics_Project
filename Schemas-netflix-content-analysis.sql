@@ -1,4 +1,4 @@
--- SCHEMAS of Netflix
+-- SCHEMAS of Netflix Data Analysis Project
 
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
