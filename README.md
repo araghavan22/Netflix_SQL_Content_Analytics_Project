@@ -6,6 +6,25 @@ Netflix Content Analytics (Years 2015 - 2021)
 ## Project Overview
 This project explores Netflix's content library using SQL, providing insights into genre distribution, content trends, and regional availability. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.It includes data cleaning, exploratory data analysis (EDA), and query optimization to uncover meaningful patterns.
 
+## Schema
+
+```sql
+DROP TABLE IF EXISTS netflix;
+CREATE TABLE netflix
+(
+    show_id      VARCHAR(5),
+    type         VARCHAR(10),
+    title        VARCHAR(250),
+    director     VARCHAR(550),
+    casts        VARCHAR(1050),
+    country      VARCHAR(550),
+    date_added   VARCHAR(55),
+    release_year INT,
+    rating       VARCHAR(15),
+    duration     VARCHAR(15),
+    listed_in    VARCHAR(250),
+    description  VARCHAR(550)
+```
 ## 🚀 Objectives
 Analyze the distribution of content types (movies vs TV shows).
 Identify the most common ratings for movies and TV shows.
